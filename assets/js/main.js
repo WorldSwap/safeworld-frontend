@@ -266,7 +266,7 @@ $(function () {
           value: ["#242525", "#242525", "#242525"],
         },
         shape: {
-          type: "circle",
+          type: "star",
           stroke: {
             width: 0,
             color: "#242525",
